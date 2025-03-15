@@ -1,0 +1,2 @@
+[2025-03-15T00:05:12.023Z] EVENT: userRegistered, Data: {"username":"Malek"}
+[2025-03-15T00:05:12.026Z] EVENT: userLoggedIn, Data: {"username":"Malek"}
