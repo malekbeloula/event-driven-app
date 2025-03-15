@@ -17,6 +17,8 @@ event-driven-app/
 │   ├── eventLogs.txt
 │── utils/                # Utility functions
 │   ├── logger.js
+│── tests/                # Unit tests
+│   ├── userService.test.js
 │── index.js              # Entry point
 │── package.json
 │── README.md
